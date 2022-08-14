@@ -1,0 +1,57 @@
+.first-topic{
+  display: flex;
+  width: 700px;
+  padding: 50px;
+  height: auto;
+  border: 5px solid orange;
+  background-color: turquoise ;
+  margin: auto;
+  margin-top: 10%;
+  
+  
+
+}
+
+button{
+  background-color: chartreuse;
+  border: none;
+  padding: 8px 15px 8px 15px;
+  color: rgb(7, 7, 239);
+ 
+ 
+ 
+}
+.text p{
+  color: rgb(77, 71, 71);
+  
+}
+
+.text h1{
+  margin-top: 40px;
+  font-size: 50px;
+  font-family:bold;
+  width: 300px;
+}
+
+image{
+  width:400px;
+  
+  
+  
+}
+
+  
+.text{
+  
+  width: 300px;
+  margin-top: -60px;
+}
+img{
+  width: fit-content;
+  height: 350px;
+  height: 300px;
+}
+
+.pp{
+  width: 600px;
+}
